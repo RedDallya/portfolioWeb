@@ -11,12 +11,13 @@ $(document).ready(function() {
     ordering: {
       title: 'Portfolio Web',
      
-      tag: 'Presentacion curriculum vitae.',
+      tag: 'Presentacion de trabajos realizados y habilidades tecnicas.',
       detail:
         'Mi proyecto se basa en mi presentacion personal de Curriculum Vitae',
-      
+      link:'https://reddallya.github.io/portfolioWeb/',
     },
-    newrelic: {
+    
+    service2: {
       title: 'Prestacion de Servicios',
       tag: 'ALGUNAS DE MIS HABILIDADES',
       detail:
@@ -24,20 +25,27 @@ $(document).ready(function() {
       link: 'https://github.com/RedDallya'
     },
     roambi: {
-      title: 'CARTA MENU RESTAURANT DIGITAL',
-      tag: 'MENU DIGITAL RESPONSIVE',
+      title: 'Beat Pass Ticket',
+      tag: 'Pagina Web para venta de entradas online en diferentes pñlataformas',
       detail:
-        'Aqui presento varias creaciones de menu para diferentes restaurantes',
-      
+        'Adquiere tus entradas para los eventos de electronica mas importantes de la ciudad',
+      link: 'https://reddallya.github.io/beatpassticket/',
     },
    
    
   
     themall: {
-      title: 'Travel Dileria',
-      tag: 'Pagina web para Viajes',
+      title: 'Soundaka Productora de Eventos',
+      tag: 'Pagina web para administracion de eventos de musica',
       detail:
-        'Gran variedad de paquetes de viajes de agencia de turismo Dileria'
+        'Gran variedad de eventos de musica electronica con implementacion de compras de tickets'
+    },
+
+    newrelic: {
+      title: 'Gran prestacion de servicios para implementar en las redes sociales',
+      tag:'chatbot,paginaweb,diseño de marca',
+      detail:'Contactame para explorar las herramientas que ofrezco',
+      link: 'https://wa.me/+5491122517518',
     }
   };
 
